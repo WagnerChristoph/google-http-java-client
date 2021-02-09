@@ -49,7 +49,7 @@ import java.util.logging.Logger;
  *   <li>Other Java environments
  *       <ul>
  *         <li>{@code com.google.api.client.googleapis.javanet.GoogleNetHttpTransport} is included
- *             in google-api-cient 1.22.0, so easy to include.
+ *             in google-api-client 1.22.0, so easy to include.
  *         <li>{@code com.google.api.client.javanet.NetHttpTransport} is based on the
  *             HttpURLConnection built into the Java SDK, so it used to be the preferred choice.
  *         <li>{@code com.google.api.client.apache.ApacheHttpTransport} is a good choice for users
